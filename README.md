@@ -2,6 +2,15 @@
 
 # Welcome!
 
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 Hello! So glad you are here!   :smile:
 
 This is a project for people who want to create a world-changing biomedical research study or contribute to an existing one. Research studies can vary wildly in how they approach sharing data and results with different groups of people. 
